@@ -11,7 +11,7 @@ import SwiftUI
 struct RealmSwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ToDoListView()
         }
     }
 }
